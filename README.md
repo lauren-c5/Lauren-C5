@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Lauren! </h1>
 
-<!--
-**lauren-c5/Lauren-C5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+
+
+<h2>Certifications:</h2>
+
+- COMPTIA A+ (Link)
+- COMPTIA Network+ (Link)
+- COMPTIA Security+ (link)
+- ITIL4 Foundations(Link)
+
+<h2>Connect With Me</h2>
+
+- LinkedIn
+- Youtube
+
