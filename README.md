@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Azure Honeypot Project](https://github.com/lauren-c5/SOC-Homelab)
 
 
 <h2>Certifications:</h2>
